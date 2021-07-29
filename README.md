@@ -1,5 +1,9 @@
 # Fuzzing IDA75
 
+<p align='center'>
+<img src='pics/wtf_ida.gif'>
+</p>
+
 This repository has every crashing files that I reported to Hexrays in 2020 when I was fuzzing the ELF and PDB loaders.
 
 <p align='center'>
