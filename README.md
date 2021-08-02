@@ -10,7 +10,7 @@ This repository has every crashing files that I reported to Hexrays in 2020 when
 <img src='pics/bounty.png'>
 </p>
 
-If you are curious about this effort, read up [XXX](XXX).
+If you are curious about this effort, read up [Building a new snapshot fuzzer & fuzzing IDA](https://doar-e.github.io/blog/2021/07/15/building-a-new-snapshot-fuzzer-fuzzing-ida/).
 
 - [Infinite loop in dwarf64](dwarf64-dos-infloop/),
 - [Stack-overflow in dwarf64](dwarf64-dos-stackov/),
